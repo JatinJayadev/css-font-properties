@@ -1,0 +1,17 @@
+/*Challenge-1*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+  font-family: Poppins;
+}
+
+/*Challenge-2*/
+#css {
+  font-variant: small-caps;
+  font-weight: 300px;
+  font-style: italic;
+}
+
+/*Challenge-3*/
+p {
+  font-size: 15px;
+}
